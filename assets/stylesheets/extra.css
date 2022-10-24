@@ -18,3 +18,6 @@ h1{
     animation: heart 1000ms infinite;
     color:indigo;
   }
+  .md-logo{
+    zoom:3.0;
+  }
