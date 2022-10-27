@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/index.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/cluster.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/hdfs.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/hive.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/mr.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/pig.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-hadoop-iset/ucase.html</loc>
-         <lastmod>2022-10-24</lastmod>
+         <lastmod>2022-10-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
