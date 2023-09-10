@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/index.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/index.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/cluster.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/cluster.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/hdfs.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/hdfs.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/hive.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/hive.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/mr.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/mr.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/pig.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/pig.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hhmida.github.io/tp-hadoop-iset/ucase.html</loc>
+         <loc>https://hhmida.github.io/tp-hadoop/ucase.html</loc>
          <lastmod>2023-09-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
